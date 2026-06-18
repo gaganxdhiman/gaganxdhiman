@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Website Development<br><br>🌱 I’m currently learning:<br>Full Stack Development<br><br>💬 Ask me about:<br>React.js, Node.js, ExpressJs, TailwindCSS, JavaScript, Python, C/C++, HTML, CSS<br><br>
+🔭 I’m currently working on:<br>Website Development<br><br>🌱 I’m currently learning:<br>Full Stack Development<br><br>💬 Ask me about:<br>React.js, Next.js, Node.js, ExpressJs, TailwindCSS, Supabase, JavaScript, Python, C/C++, HTML, CSS<br><br>
 
 
 ## 🌐 Socials:
